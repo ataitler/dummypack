@@ -17,7 +17,7 @@ from setuptools import setup, find_packages
 
 setup(
       name='dummypack',
-      version='1.0.0',
+      version='1.0.1',
       author="Ayal Taitler",
       author_email="ataitler@gmail.com",
       description="dummypack: dummy package for pypi install",
