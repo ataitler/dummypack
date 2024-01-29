@@ -22,7 +22,7 @@ setup(
       author_email="ataitler@gmail.com",
       description="dummypack: dummy package for pypi install",
       license="MIT License",
-      url="https://github.com/ataitler/dummypack",
+      url="https://github.com/pyrddlgym-project/dummypack",
       packages=find_packages(),
       install_requires=[],
       python_requires=">=3.8",
